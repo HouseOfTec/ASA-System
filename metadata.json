@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Sentiment Analysis Platform",
+  "description": "A comprehensive sentiment analysis tool that provides detailed text analysis, keyword extraction, content moderation, and intelligent text highlighting using the Gemini API. It offers a clean, responsive interface for analyzing text inputs and visualizing the results.",
+  "requestFramePermissions": []
+}
